@@ -65,12 +65,10 @@ handwriting skills, providing immediate feedback and tracking progress to reinfo
 learning. This component also includes memory tracking exercises that help 
 reinforce previously learned words through repetition and context. 
  
-The Sinhala Speech and Pronunciation Enhancement Module focuses on improving 
-phonemic awareness and pronunciation. It uses interactive flashcards, syllable 
-clapping games, and read-aloud practice with speech recognition to provide 
-feedback and adapt to the child's progress. This component also incorporates fun 
-activities like sound matching games and sing-along sessions to make learning 
-engaging. Finally, the Sentence Construction and Storytelling component helps 
+The Sinhala Speech and Pronunciation Enhancement Module focuses on improving phonemic awareness and pronunciation. 
+This component incorporates syllable clapping and pronunciation exercises to enhance syllable recognition in dyslexic 
+students, utilizing speech recognition to provide feedback and adapt to the child's progress.
+Finally, the Sentence Construction and Storytelling component helps 
 children form coherent sentences and understand story structures through 
 interactive drag-and-drop exercises and picture sequence storytelling. Adaptive 
 algorithms adjust the difficulty level based on individual performance, ensuring 
