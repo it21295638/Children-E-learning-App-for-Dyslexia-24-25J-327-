@@ -4,7 +4,7 @@ Repository Link -
 
 Project ID - Research_327
 
-Member 1 - IT21 - Name (git username)/ Component 1 - Component name
+Member 1 - IT21295638 - Vishvanath M.S.M.V (it21295638)/ Sinhala Speech and Pronunciation Enhancement
 
 Member 2 - IT21303470 - Yalapola N.A(Amandiy)/Handwriting and Listening Assistant for Sinhala Letters and Shapes
 
