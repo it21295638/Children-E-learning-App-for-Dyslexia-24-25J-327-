@@ -81,6 +81,7 @@ Sinhala.
 
 
 -----Architectural Diagram-----
+
 Drive Link - https://drive.google.com/file/d/1RKoYrpmCJL4X6tLl3aQ5vZgnfx1nlere/view?usp=sharing
 
 -----Dependencies-----
