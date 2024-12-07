@@ -82,5 +82,7 @@ Sinhala.
 
 -----Architectural Diagram-----
 
+-----Dependencies-----
+
 
 
