@@ -10,7 +10,7 @@ Member 2 - IT21303470 - Yalapola N.A(Amandiy)/Handwriting and Listening Assistan
 
 Member 3 - IT21227240 - Nidhara E.G.T(TharushiNidhara) / Interactive Handwriting with Memory Tracking
 
-Member 4 -IT21087974  -  Fernando S.I.N / Sentence Constuction with Adaptivce Learning
+Member 4 -IT21087974  -  Fernando S.I.N(It21087974) / Sentence Constuction with Adaptivce Learning
 
 --------Research Problem--------
  
